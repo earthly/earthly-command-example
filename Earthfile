@@ -1,3 +1,4 @@
+VERSION 0.6
 
 IMPORT github.com/earthly/hello-world:main
 
